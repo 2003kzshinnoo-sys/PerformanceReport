@@ -1,0 +1,6 @@
+{
+  "name": "店舗別成果表 業務改善構想デモ",
+  "description": "店舗別成果表作成の手作業をAI・アプリ化によって自動化し、一元管理・分析を可能にする業務改善構想の説明用デモ画面。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
